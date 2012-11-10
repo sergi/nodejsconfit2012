@@ -17,7 +17,7 @@ var imports = {
 };
 
 doCooking(options, imports, function () {
-	// assert we called the dance function 20 times (one for each dish)
+	// assert we called the cook function 20 times (one for each dish)
 	assert.equal(mockedCook.cook.callCount, options.numberOfGuests * 2);
 });
 
