@@ -1,0 +1,10 @@
+{
+    "name": "do-cooking",
+    "version": "0.0.1",
+    "main": "cooking.js",
+    "private": true,
+    "plugin": {
+        "consumes": [ "cook" ],
+        "provides": [ ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "cooking-reactor",
+    "version": "0.0.1",
+    "main": "react-on-cooking.js",
+    "private": true,
+    "plugin": {
+        "consumes": [ "eventbus" ],
+        "provides": [ ]
+    }
+}

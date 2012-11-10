@@ -1,0 +1,9 @@
+{
+    "name": "talk-nodejsconf",
+    "description": "Sergi Mansilla talk at http://nodejsconf.it/",
+    "version": "0.0.1",
+    "author": "Sergi Mansilla <sergi@c9.io>",
+    "dependencies": {
+        "architect": "0.1.4"
+    }
+}
